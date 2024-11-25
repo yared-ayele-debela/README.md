@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 Hello, 👋 I'm Yared Ayele, a Software Engineer passionate about Building Scalable Web Applications. ✨ Leveraging my Back-End & Front-End Expertise to create seamless user experiences with robust back-ends. 🌱 Quick learner with a willingness to adapt to new technologies and frameworks.
-👯 I’m currently working on an ERP Project web application  
+👯 I’m currently working on an ERP Project web application 
 🌱 I’m currently learning NextJs and Node.js  
 🔭 Looking to work on challenging projects (Open to new opportunities!)  
 🔭 Looking to contribute to the development of innovative solutions  
