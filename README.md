@@ -1,6 +1,6 @@
 <div align="center"><h1>Hey there 👋 Welcome!!!</h1></div>
 <div align="center">
-<img src="https://i.pinimg.com/736x/7c/43/3e/7c433e7273948204d875ee5cdcf218ff.jpg" height=auto>
+<img src="https://i.pinimg.com/736x/7c/43/3e/7c433e7273948204d875ee5cdcf218ff.jpg" height=auto width=100%>
 </div>
 <br>
 
