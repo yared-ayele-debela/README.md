@@ -25,10 +25,22 @@ Name | Badges
 
 **Hosting, DevOps & tools**   | ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Linode](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yared-ayele-debela&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yared-ayele-debela&theme=darcula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yared-ayele-debela&theme=darcula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yared-ayele-debela&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yared-ayele-debela&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+## 🗓 Contribution Graph:
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yared-ayele-debela&theme=github" alt="Contribution Graph" />
+</div>
+
+## 🔥 Streak Stats:
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yared-ayele-debela&theme=radical" alt="Commit Streak Stats" />
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yared-ayele-debela&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
