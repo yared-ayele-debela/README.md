@@ -12,7 +12,7 @@ Hello, 👋 I'm Yared Ayele, a Software Engineer passionate about Building Scala
 🔭 Looking to contribute to the development of innovative solutions  
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YaredAyele)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yared-ayele-debela) [![Codepen](https://img.shields.io/badge/Codepen-12100E?logo=codepen&logoColor=white)](https://codepen.io/@YaredAyele)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/YaredAyele)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yared-ayele-debela) [![Codepen](https://img.shields.io/badge/Codepen-12100E?logo=codepen&logoColor=white)](https://codepen.io/@yared-ayele-debela)
 # 💻 Tech Stack:
 
 Name | Badges
