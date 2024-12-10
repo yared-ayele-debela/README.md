@@ -58,7 +58,8 @@ Here are some of the projects I’ve worked on:
 
 - **LinkedIn**: [Yared Ayele Debela](https://www.linkedin.com/in/yared-ayele-debela)  
 - **Portfolio**: [yaredayele.com](https://yaredayele.com.com)  
-- **Email**: [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)  
+- **Email**: [yared.debela.ayele@gmail.com](mailto:yared.debela.ayele@gmail.com)
+- **CodePen**: [yared.ayele.debela.com](https://codepen.io/yared-ayele-debela)
 ---
 
 ✨ *"Building software solutions that make a difference in people's lives."*  
