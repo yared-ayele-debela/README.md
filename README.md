@@ -13,7 +13,14 @@ Here are some of the projects I’ve worked on:
 ### **2. Multi-Vendor eCommerce Website**  
 > A scalable solution for managing multiple vendors and their online presence.  
 - **Tech Stack**: Laravel, Livewire, Bootstrap  
-- **Key Features**: Vendor management, product catalog, order tracking  
+- **Key Features**:  
+  - Vendor management  
+  - Product catalog  
+  - Order tracking  
+  - Order delivery  
+  - Shipping management  
+  - Customer reviews and ratings  
+  - Advanced analytics dashboard  
 
 ### **3. Course Enrollment Platform**  
 > Simplifies student registration and course management for educational institutions.  
