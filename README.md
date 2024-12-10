@@ -7,12 +7,12 @@ Here are some of the projects I’ve worked on:
 
 ### **1. ERP System**  
 > An enterprise management platform enabling seamless business operations and process automation.  
-- **Tech Stack**: Laravel, React, MySQL  
+- **Tech Stack**: Bootstrap, Ajax, Jquery, Laravel, MySQL  
 - **Key Features**: Modular design, advanced reporting, role-based access control  
 
 ### **2. Multi-Vendor eCommerce Website**  
 > A scalable solution for managing multiple vendors and their online presence.  
-- **Tech Stack**: Laravel, Livewire, Bootstrap  
+- **Tech Stack**:  Bootstrap, Ajax, Jquery, Laravel, Livewire
 - **Key Features**:  
   - Vendor management  
   - Product catalog  
