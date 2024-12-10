@@ -1,7 +1,6 @@
 <div align="center"><h1># Hi there! 👋 I'm Yared Ayele</h1></div>
 <br>
-# 💫 About Me:
-Hello, 👋 I'm Yared Ayele, a Software Engineer passionate about Building Scalable Web Applications. ✨ Leveraging my Back-End & Front-End Expertise to create seamless user experiences with robust back-ends. 🌱 Quick learner with a willingness to adapt to new technologies and frameworks.
+👋 I'm Yared Ayele, a Software Engineer passionate about Building Scalable Web Applications. ✨ Leveraging my Back-End & Front-End Expertise to create seamless user experiences with robust back-ends. 🌱 Quick learner with a willingness to adapt to new technologies and frameworks.
 
 ## 🚀 Projects  
 Here are some of the projects I’ve worked on:  
