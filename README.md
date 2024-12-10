@@ -64,17 +64,6 @@ Here are some of the projects I’ve worked on:
 
 ✨ *"Building software solutions that make a difference in people's lives."*  
 
-## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yared-ayele-debela&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yared-ayele-debela&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-## 🗓 Contribution Graph:
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yared-ayele-debela&theme=github" alt="Contribution Graph" />
-</div>
-
 ## 🔥 Streak Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yared-ayele-debela&theme=radical" alt="Commit Streak Stats" />
