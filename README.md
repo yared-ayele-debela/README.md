@@ -24,17 +24,17 @@ Here are some of the projects I’ve worked on:
 
 ### **3. Course Enrollment Platform**  
 > Simplifies student registration and course management for educational institutions.  
-- **Tech Stack**: Laravel, React, Firebase  
+- **Tech Stack**: Bootsrap, Laravel, PHP, MySQL,  
 - **Key Features**: Dynamic course scheduling, payment integration, real-time notifications  
 
 ### **4. Healthcare Management System**  
 > A comprehensive system to optimize hospital operations.  
-- **Tech Stack**: Laravel, jQuery, MySQL  
+- **Tech Stack**: Bootstrap, Laravel, jQuery, MySQL  
 - **Key Features**: Patient records, appointment scheduling, billing automation  
 
 ### **5. Ekub Application**  
 > An innovative platform for community-based financial systems.  
-- **Tech Stack**: Laravel, Bootstrap  
+- **Tech Stack**: Bootstrap, Laravel, MySQL, JQuery, Ajax  
 - **Key Features**: Monthly draws, financial tracking, package-based entries  
 
 ## 💼 Current Projects  
