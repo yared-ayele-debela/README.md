@@ -1,6 +1,14 @@
 <div align="center"><h1># Hi there! 👋 I'm Yared Ayele</h1></div>
 <br>
-👋 I'm Yared Ayele, a Software Engineer passionate about Building Scalable Web Applications. ✨ Leveraging my Back-End & Front-End Expertise to create seamless user experiences with robust back-ends. 🌱 Quick learner with a willingness to adapt to new technologies and frameworks.
+Hi, I'm Yared Ayele, a highly motivated and experienced Software Engineer with a strong foundation in designing and building scalable, secure, and user-centric applications. With a Bachelor of Science in Computer Science and over two years of hands-on experience, I have contributed to cutting-edge projects in ERP systems, eCommerce platforms, and community-based financial applications.
+
+💻 What I Do:
+
+Backend Development: Expertise in PHP and frameworks like Laravel for crafting robust, efficient solutions.
+Frontend Development: Skilled in JavaScript, React, and Livewire to create engaging and seamless user experiences.
+MERN Stack Expertise: Proficient in building modern, scalable applications using MongoDB, Express.js, React, and Node.js.
+Database Management: Hands-on experience with MySQL, and MongoDB for secure and reliable data handling.
+DevOps & Tools: Proficient with Docker, Git, and other tools that streamline the software development lifecycle.
 
 ## 🚀 Projects  
 Here are some of the projects I’ve worked on:  
@@ -47,12 +55,7 @@ Here are some of the projects I’ve worked on:
 > A user-friendly application for food ordering and delivery management.  
 - **Tech Stack**: Laravel, Vue.js,  
 
-## 🌟 Skills and Technologies  
-
-- **Languages**: PHP, JavaScript, TypeScript, Java  
-- **Frameworks & Libraries**: Laravel, React, Node.js, Livewire, Vue.js  
-- **Databases**: MySQL, MongoDB, SQL  
-- **Tools**: Docker, Git, Postman  
+## 🌟 My Certificate  
 - **Certifications**:  
   - Meta Front-End Development  
   - IBM Node.js Back-End Apps  
