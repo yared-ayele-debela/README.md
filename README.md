@@ -4,11 +4,11 @@ Hi, I'm Yared Ayele, a highly motivated and experienced Software Engineer with a
 
 💻 What I Do:
 
-Backend Development: Expertise in PHP and frameworks like Laravel for crafting robust, efficient solutions.
-Frontend Development: Skilled in JavaScript, React, and Livewire to create engaging and seamless user experiences.
-MERN Stack Expertise: Proficient in building modern, scalable applications using MongoDB, Express.js, React, and Node.js.
-Database Management: Hands-on experience with MySQL, and MongoDB for secure and reliable data handling.
-DevOps & Tools: Proficient with Docker, Git, and other tools that streamline the software development lifecycle.
+- **Backend Development**: Expertise in PHP and frameworks like Laravel for crafting robust, efficient solutions. <br>
+Frontend Development: Skilled in JavaScript, React, and Livewire to create engaging and seamless user experiences.<br>
+MERN Stack Expertise: Proficient in building modern, scalable applications using MongoDB, Express.js, React, and Node.js.<br>
+Database Management: Hands-on experience with MySQL, and MongoDB for secure and reliable data handling.<br>
+DevOps & Tools: Proficient with Docker, Git, and other tools that streamline the software development lifecycle.<br>
 
 ## 🚀 Projects  
 Here are some of the projects I’ve worked on:  
